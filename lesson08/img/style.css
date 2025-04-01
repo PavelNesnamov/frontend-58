@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.card-container {
+  height: 378.67px;
+  width: 470.32px;
+  background-color: white;
+  border: 1px;
+  display: flex;
+  flex-direction: column;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*
+section {
+  height: 378.67px;
+  width: 470.32px;
+  background-color: white;
+  border: 1px;
+  display: flex;
+  flex-direction: column;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+}
+
