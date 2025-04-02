@@ -29,4 +29,6 @@ const filmsList = [
     }
 ]
 
-
+// const changeStatus = (event) => {
+//     if (event.target.)
+// }
