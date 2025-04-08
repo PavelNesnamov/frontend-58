@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Fugaz One';
+    src: url('../fonts/FugazOne-Regular.ttf') format('true type');
+}
+
+* {
+    font-family: 'Fugaz One', 'sans-serif';
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
